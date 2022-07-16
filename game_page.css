@@ -1,0 +1,64 @@
+#body{
+    background-image:url("sasa.jpg");
+     /* background-position: center;  */
+    background-size: cover;
+    padding-bottom: 50px;
+    float: left;
+ 
+}
+#number{
+    background-color:yellowgreen;
+
+}
+
+#output{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    border-top:10px solid #fb8787 ;
+    padding: 20px;
+    width: 60%;
+    margin: 30px;
+    /* margin-bottom: 50px; */
+}
+#ww{
+    margin-top: 2%;
+    margin-right: 15%;
+    margin-bottom: 3%;
+    margin-left: 14%;
+   float: left;
+}
+#ee{
+    margin-top: 2%;
+    margin-right: 15%;
+    margin-bottom: 3%;
+    margin-left: 14%;
+   float: left;
+ }
+#first_number{
+width: 60%;
+float: left;
+margin-bottom: 50px;
+}
+#second_number{
+    width: 60%;
+    float: left;
+    margin-bottom: 50px;
+    }
+    #send{
+         margin-top: 2%;
+         margin-right: 12%;
+        float: left;
+        margin-left: 12%;
+    }
+
+    #player1{
+        color: black;
+    }
+    #player_question{
+        color:red;
+        margin-right: 90%;
+    }
+    #player_answer{
+        color:red;
+        margin-right: 90%;
+    }
